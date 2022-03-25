@@ -2,23 +2,9 @@ note:: 整個筆記系統的進入點、儀表板
 
 - ---
 -
+- [[Readme]]
 -
 -
-- ## Readme
-	- 目的
-		- 記錄生活的事情，利用 Journals
-		- 記錄書本
-		- 記錄 Note
-	- 待實驗
-		- 待辦事項系統
-	- Workflow
-		- **Fleet Note**: Journals
-		- **Literature Note**: Book, Arsticle
-			- 之後可能放
-			- Comic, Animate, Movie, TV programs, Podcast
-			- Video, Image, Music
-		- **Permanent Note**: Note
-		-
 - ## 文章類型 #TYPE
 	- {{query (page-property type Type)}}
 	-
