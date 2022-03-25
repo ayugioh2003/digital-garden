@@ -1,5 +1,6 @@
+- ## 小麥的數位花園
 - [[關於此站]]
--
+- [[關於我]]
 -
 - ## 文章類型 #TYPE
 	- {{query (page-property type Type)}}
