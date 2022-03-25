@@ -166,7 +166,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ("home" "Note")
+ :favorites ("home" "Note" "about this site")
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
  :feature/enable-journals? true
