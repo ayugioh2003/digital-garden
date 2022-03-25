@@ -1,5 +1,4 @@
-title:: Home
-
+-
 - 透過筆記軟體 [[Logseq]]，以及筆記系統 [[Zettelkasten]] ，留下 [[Knowledge Management]] 過程的數位足跡。
 - [[關於此站]]
 - [[關於我]]
