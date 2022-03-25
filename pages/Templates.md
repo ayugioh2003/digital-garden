@@ -10,6 +10,8 @@
   tags::
   note::
 -
+- type:: #Type
+  note::
 -
 - template:: tags
   tags::
@@ -46,3 +48,12 @@
   note::
   Introduction
   Reference
+-
+- template:: Person
+  alias:: 
+  relation:: 
+  type:: #Person 
+  tags::
+  note::
+-
+-

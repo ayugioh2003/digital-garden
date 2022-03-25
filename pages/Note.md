@@ -3,9 +3,6 @@ tags::
 note:: 紀錄自己的的筆記
 
 -
-- ## Template
-	-
-	-
 -
 - ## List
 - {{query (page-property type Note ) }}

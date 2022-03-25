@@ -1,14 +1,6 @@
 type:: #Type 
 note:: 人放在這裡
 
-- ## Template
-	- template:: Person
-	  alias:: 
-	  relation:: 
-	  type:: #Person 
-	  tags::
-	  note::
-	-
 -
 - ## Relation
 	- #JuniorHigh
