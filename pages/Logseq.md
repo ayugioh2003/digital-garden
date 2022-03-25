@@ -42,6 +42,7 @@ note:: 支援 backlink 的筆記軟體
 	- [使用 Jekyll 建立自己的數字花園 — Maxime Vaillancourt](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 		- [About this site — Zettelgarden](https://garden.rahulrajeev.net/about-this-site)
 	- [Logseq 第一次试用记录以及发布 Logseq 到网页 | Verne in GitHub](https://blog.einverne.info/post/2022/01/logseq-usage.html)
+	- [如何发布logseq成为博客 #发布#教程 - 分享 - Logseq 中文社区](https://cn.logseq.com/t/topic/82)
 - ## 相關連結
 	- [(171) 《Vista的小聲音》 EP.37 數位筆記軟體Logseq簡介 - YouTube](https://www.youtube.com/watch?v=3YKAtRWQ1C4&ab_channel=VistaCheng)
 	- [Logseq 知識連結筆記教學，免費替代 Roam research、Obsidian](https://www.playpcesor.com/2022/02/logseq-roam-researchobsidian.html)
