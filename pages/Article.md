@@ -1,7 +1,8 @@
-type:: Type
+type:: #Type
 tags::
-note:: 文章形式的文本
+note:: 放讀到的文章
 
+-
 -
 - ## List
 	- {{query (page-property type Article)}}
