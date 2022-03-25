@@ -22,10 +22,10 @@ note:: 整個筆記系統的進入點、儀表板
 - ## Built-in
 	- [[Contents]] 用來放全域的筆記
 	- [[card]] 可以拿來背卡片
-- ## [[Type]] 資料型別
+- ## 文章類型
 	- {{query (page-property type Type)}}
 	-
-- ## [[Tags]] 頁面標籤
+- ## 頁面標籤
 	- {{query (all-page-tags)}}
 	  query-sort-by:: note
 	  query-sort-desc:: false
