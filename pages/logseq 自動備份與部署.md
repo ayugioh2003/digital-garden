@@ -14,6 +14,7 @@ note::
 		- mac 路徑空白要用反斜線
 			- [shell - How to input a path with a white space? - Stack Overflow](https://stackoverflow.com/questions/12902227/how-to-input-a-path-with-a-white-space)
 		- cron Operation not permitted
-			-
+			- 要用 `chmod 777 filename` 給執行權限
+			- google drive volumn 沒辦法給執行權限，bash 檔要放在其他地方
 -
 - ## Reference
