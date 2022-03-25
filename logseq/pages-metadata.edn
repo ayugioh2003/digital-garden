@@ -39,7 +39,7 @@
   :block/updated-at 1648115139020}
  {:block/name "2022-03-25 friday",
   :block/created-at 1648171040722,
-  :block/updated-at 1648186257027}
+  :block/updated-at 1648194313508}
  {:block/name "a",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
@@ -48,13 +48,13 @@
   :block/updated-at 1648114987000}
  {:block/name "article",
   :block/created-at 1648002741140,
-  :block/updated-at 1648003406203}
+  :block/updated-at 1648191125525}
  {:block/name "b",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
  {:block/name "book",
   :block/created-at 1647276892249,
-  :block/updated-at 1647941281426}
+  :block/updated-at 1648191132667}
  {:block/name "brendan eich",
   :block/created-at 1648114987000,
   :block/updated-at 1648114987000}
@@ -70,6 +70,9 @@
  {:block/name "contents",
   :block/created-at 1647084869996,
   :block/updated-at 1647101211634}
+ {:block/name "cron",
+  :block/created-at 1648193202051,
+  :block/updated-at 1648194566848}
  {:block/name "doing",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
@@ -93,7 +96,7 @@
   :block/updated-at 1647939959255}
  {:block/name "home",
   :block/created-at 1647276892372,
-  :block/updated-at 1648175766104}
+  :block/updated-at 1648196422472}
  {:block/name "idea",
   :block/created-at 1648115074708,
   :block/updated-at 1648115074708}
@@ -115,27 +118,27 @@
  {:block/name "javascript 物件複製",
   :block/created-at 1648018742646,
   :block/updated-at 1648019676593}
- {:block/name "javascript_ the first 20 years",
-  :block/created-at 1647276892250,
-  :block/updated-at 1648114987005}
+ {:block/name "journal",
+  :block/created-at 1648191306840,
+  :block/updated-at 1648191306840}
  {:block/name "juniorhigh",
   :block/created-at 1647939959253,
   :block/updated-at 1647939959253}
  {:block/name "knowledge management",
   :block/created-at 1648092947373,
-  :block/updated-at 1648092947373}
+  :block/updated-at 1648196644827}
  {:block/name "later",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
  {:block/name "logseq",
   :block/created-at 1647276892252,
-  :block/updated-at 1648112262307}
+  :block/updated-at 1648196848816}
  {:block/name "logseq 自動備份與部署",
   :block/created-at 1648186257022,
-  :block/updated-at 1648188637783}
+  :block/updated-at 1648193202051}
  {:block/name "mac",
   :block/created-at 1648092364797,
-  :block/updated-at 1648092364797}
+  :block/updated-at 1648196719322}
  {:block/name "military",
   :block/created-at 1647939959256,
   :block/updated-at 1647939959256}
@@ -150,10 +153,10 @@
   :block/updated-at 1647939959226}
  {:block/name "note",
   :block/created-at 1647940015917,
-  :block/updated-at 1648099349218}
+  :block/updated-at 1648191141048}
  {:block/name "notetakingapp",
   :block/created-at 1647276892251,
-  :block/updated-at 1648180262953}
+  :block/updated-at 1648196468588}
  {:block/name "notetakingmethod",
   :block/created-at 1647933668813,
   :block/updated-at 1648092947375}
@@ -171,7 +174,7 @@
   :block/updated-at 1648174915703}
  {:block/name "person",
   :block/created-at 1647314073259,
-  :block/updated-at 1647317215279}
+  :block/updated-at 1648190747468}
  {:block/name "question",
   :block/created-at 1647312579967,
   :block/updated-at 1647312579967}
@@ -183,13 +186,13 @@
   :block/updated-at 1647939959254}
  {:block/name "sociology",
   :block/created-at 1648003058713,
-  :block/updated-at 1648003058713}
+  :block/updated-at 1648196821135}
  {:block/name "tags",
   :block/created-at 1647941606218,
   :block/updated-at 1647941722074}
  {:block/name "templates",
   :block/created-at 1647276892370,
-  :block/updated-at 1647324036460}
+  :block/updated-at 1648190766745}
  {:block/name "tesetpage2",
   :block/created-at 1648174915857,
   :block/updated-at 1648174915857}
@@ -204,13 +207,13 @@
   :block/updated-at 1647084869996}
  {:block/name "type",
   :block/created-at 1647316792567,
-  :block/updated-at 1647941883603}
+  :block/updated-at 1648190770656}
  {:block/name "vite",
   :block/created-at 1647939144931,
   :block/updated-at 1647941260297}
  {:block/name "vscode",
   :block/created-at 1648092367749,
-  :block/updated-at 1648092367749}
+  :block/updated-at 1648196805199}
  {:block/name "vue",
   :block/created-at 1647939134578,
   :block/updated-at 1647939647721}
@@ -225,7 +228,7 @@
   :block/updated-at 1648016407565}
  {:block/name "以社會系統理論看六角後端直播班分組",
   :block/created-at 1648005506387,
-  :block/updated-at 1648115527897}
+  :block/updated-at 1648192552669}
  {:block/name "富邦台50",
   :block/created-at 1647496199291,
   :block/updated-at 1647496199291}
@@ -238,6 +241,15 @@
  {:block/name "測試",
   :block/created-at 1648116443844,
   :block/updated-at 1648116443844}
+ {:block/name "爬蟲",
+  :block/created-at 1648194301247,
+  :block/updated-at 1648194404377}
  {:block/name "讓 mac finder 透過右鍵選單開啟 vscode",
-  :block/created-at 1648092282792, 
-  :block/updated-at 1648092808956}]
+  :block/created-at 1648092282792,
+  :block/updated-at 1648092808956}
+ {:block/name "關於我",
+  :block/created-at 1648195164542,
+  :block/updated-at 1648195755082}
+ {:block/name "關於此站",
+  :block/created-at 1648191406341, 
+  :block/updated-at 1648195045639}]

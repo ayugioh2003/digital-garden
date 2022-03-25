@@ -1,9 +1,11 @@
 type:: 
 tags:: #NoteTakingApp
 initialYear:: #2020 
-feature: backlink
-note::
+feature:: backlink
+note:: 支援 backlink 的筆記軟體
 
+-
+-
 -
 - ## 官方
 	- [github](https://github.com/logseq/logseq)
