@@ -1,0 +1,115 @@
+title:: JavaScript the first 20 years
+type:: #Book
+tags:: JavaScript
+author:: Allen Wirfs-Brock, Brendan Eich
+year:: 2000
+
+-
+-
+	-
+	-
+	-
+-
+- ## 語言誕生
+	- ### 史前時代
+	- ### Brendan Eich 加入網景
+	- ### Mocha 的故事
+	- ### JavaScript 1.0 與1.1
+	  collapsed:: true
+		- JavaScript 語法
+		- 數據類型與表達式
+		- 對象
+		- 函數對象
+		- 內置庫
+		- 執行模型
+		- 迷惑行為與Bug
+			- 冗餘聲明
+			- 隱式類型轉換與 == 運算符
+			- 32 位算術
+			- this關鍵字
+			- Arguments 對象
+			- 對數值屬性鍵的特殊處理
+			- 原始值的屬性
+			- JavaScript 中的HTML 註釋
+	- ### 微軟JScript
+	- ### 從Mocha 到SpiderMonkey
+- ## 插曲：風評被害
+- ## 創立標準
+	- 尋找場地
+	- 首次TC39 會議
+	- 編寫規範
+	- 命名標準
+	- ISO 快速通道
+	- 定義ECMAScript 3
+- ## 插曲：JavaScript 不需要Java
+	- 佈道師
+	- 富互聯網應用與AJAX
+	- 瀏覽器博弈論
+- ## 改革失敗
+	- 不滿於成功
+	- 對ES4 的第一輪嘗試
+	- 另一條死路
+	- Flash 與ActionScript
+	- 對ES4 的第二輪嘗試
+		- 重置TC39-TG1
+		- 重新設計ES4
+		- 阻力
+		- 尋求和諧
+- ## 插曲：認真對待JavaScript
+	- JavaScript 性能革命
+	- CommonJS 和Node.js
+	- 成為瀏覽器通用運行時的JavaScript
+- ## 繼往開來
+	- 開發ES3.1/ES5
+		- ES5 技術設計
+			- 嚴格模式
+			- Getter，Setter 和對像元操作
+			- 對象的完整性與安全性特性
+			- 活動對象（Activation Object）的移除
+			- 其他ES5 特性
+		- 實現與測試
+	- 從Harmony 到ECMAScript 2015
+		- 開始投入Harmony
+			- 稻草人（Strawman）與目標
+			- 倡導者模型
+			- 選擇特性集
+			- 開始編寫規範
+			- One JavaScript
+			- Brendan 的夢想
+		- 重新打造規範
+			- 重組規範結構
+			- 新的術語
+			- 新的語義種類
+		- ES2015 語言特性
+			- Realms、Jobs、Proxies 和元對象編程（MOP）
+			- 塊級聲明作用域
+			- 類
+			- 模塊
+			- 箭頭函數
+			- 其他特性
+			- 延期和被放棄的特性
+		- Harmony 轉譯器
+		- 完成ECMAScript 2015
+- ## 總結
+- ## 致謝
+- ## 附錄
+	- 登場人物
+	- 登場組織
+	- 術語表
+	- 縮略語和首字母縮寫詞
+	- 時間線
+		- 第一部分：語言誕生
+		- 第二部分：創立標準
+		- 第三部分：改革失敗
+		- 第四部分：繼往開來
+	- 1995 年12 月4 日的JavaScript 發佈公告
+- ## 備註
+- ## 參考文獻
+-
+- ## Reference
+	- [JavaScript: the first 20 years | Proceedings of the ACM on Programming Languages](https://dl.acm.org/doi/10.1145/3386327)
+	- [JavaScript 二十年](https://cn.history.js.org/)
+		- [doodlewind/jshistory-cn: 🇨🇳 《JavaScript 二十年》中文版](https://github.com/doodlewind/jshistory-cn)
+	- [《JavaScript 二十年》中文在线版发布 - 知乎](https://zhuanlan.zhihu.com/p/257990478)
+		-
+	-

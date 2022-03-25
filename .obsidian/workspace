@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "e6d0b6ffc363b158",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5eff969601cd275",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Home.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a5fdf6440232c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "2651451aec3c3e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d9e2cee550efa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29b3f7170de8b230",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "074f6da7c33f5bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd88d744b75b687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2037aaef73dfb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5eff969601cd275",
+  "lastOpenFiles": [
+    "pages/Home.md",
+    "journals/2022_03_24.md",
+    "pages/testObsidain.md",
+    "pages/Article.md",
+    "pages/Tags.md",
+    "pages/Templates.md",
+    "pages/note-taking-app.md",
+    "pages/JavaScript.md",
+    "pages/contents.md",
+    "pages/Book.md"
+  ]
+}

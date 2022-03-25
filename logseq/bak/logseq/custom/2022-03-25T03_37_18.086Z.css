@@ -1,0 +1,33 @@
+/* https://gist.github.com/madawei2699/61cf9601a443df21a9fabb282723936c */
+
+:root {
+    --color-primary: #00bcd4;
+    --color-primary-dark: #00acc2;
+    --color-primary-light: #80deea;
+    --color-secondary: #ff9800;
+    --color-secondary-dark: #f57c00;
+    --color-secondary-light: #ffb74d;
+}
+
+html {
+  font-size: 18px;
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+.text-primary-dark {
+  color: var(--color-primary-dark);
+}
+.text-primary-light {
+  color: var(--color-primary-light);
+}
+.text-secondary-dark {
+  color: var(--color-secondary-dark);
+}
+.text-secondary-light {
+  color: var(--color-secondary-light);
+}
+.text-secondary {
+  color: var(--color-secondary);
+}
