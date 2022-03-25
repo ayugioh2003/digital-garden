@@ -37,7 +37,8 @@
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
  ;; :publishing/all-pages-public? true
-
+ :publishing/all-pages-public? true
+ 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
  ;; value for `:page` is name of page
@@ -170,7 +171,7 @@
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
  :feature/enable-journals? true
- :publishing/all-pages-public? true
+
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
