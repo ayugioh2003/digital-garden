@@ -32,6 +32,5 @@ note:: 整個筆記系統的進入點、儀表板
 	  query-properties:: [:page :note :created-at :updated-at]
 -
 - ## Test
-	- [[testpage]]
-	- [[tesetpage2]]
+  - test auto save
   
