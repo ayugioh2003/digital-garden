@@ -1,7 +1,7 @@
--
-- 透過筆記軟體 [[Logseq]]，以及筆記系統 [[Zettelkasten]] ，留下 [[Knowledge Management]] 過程的數位足跡。
-- [[關於此站]]
-- [[關於我]]
+- 歡迎光臨 <span style="font-size: 24px;" class="text-secondary">小麥的數位花園</span>
+- 此網站是我透過筆記軟體 [[Logseq]]，以及筆記系統 [[Zettelkasten]] ，組織 [[Knowledge Management]] 過程的數位足跡。
+	- [[關於此站]]
+	- [[關於我]]
 -
 - ## 文章類型 #Type
 	- {{query (page-property type Type)}}
@@ -16,5 +16,4 @@
 	- [[Contents]] 用來放全域的筆記
 	- [[card]] 可以拿來背卡片
 	- [[Templates]]
-	- [[journal]]
 -

@@ -1,5 +1,4 @@
-type::
-tags:: 
-note:: JavaScript 在本地端的運行環境
+note:: JavaScript 的運行環境
 
+-
 -
