@@ -16,5 +16,7 @@ note::
 		- cron Operation not permitted
 			- 要用 `chmod 777 filename` 給執行權限
 			- google drive volumn 沒辦法給執行權限，bash 檔要放在其他地方
+			- [linux - chmod: changing permissions of ‘my_script.sh’: Operation not permitted - Stack Overflow](https://stackoverflow.com/questions/38676437/chmod-changing-permissions-of-my-script-sh-operation-not-permitted)
+			- [[Mac] macOS Catalina 上的 cron job 遇到 Operation not permitted 錯誤 | EPH 的程式日記](https://ephrain.net/mac-macos-catalina-%E4%B8%8A%E7%9A%84-cron-job-%E9%81%87%E5%88%B0-operation-not-permitted-%E9%8C%AF%E8%AA%A4/)
 -
 - ## Reference
