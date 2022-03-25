@@ -4,11 +4,11 @@ note::
 
 - ## Introduction
 	- 我在前幾天發現 logseq 後，就決定花點時間來研究。發現雖然可以發布成靜態網站，但沒有完整的自動過程。想透過這篇來研究
-- ## 同步資料：Google Drive 方案
+- ## 同步資料：Google Drive 方案 (windows + mac + android)
 	- 說到同步資料，我第一個念頭是用 Google Drive。桌機端好解決，Google Drive 本身有提供 Windows 和 Mac 桌機版本。
 	- Android 的部分我則用了 Autosync for Google Drive，然後一時腦波弱就買下去惹
-	- [Autosync for Google Drive - Google Play 應用程式](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync&hl=zh_TW&gl=US)
-- ## 同步資料：git + cron 方案
+		- [Autosync for Google Drive - Google Play 應用程式](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync&hl=zh_TW&gl=US)
+- ## 同步資料：git + cron 方案 (mac)
 	- 看到隔壁棚 Obsidian 有內建 git 同步很是羨慕，就開始想說自己動手做個 git 同步功能好了。主要參考這篇：
 		- [本地文件自动同步到GitHub - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1575314)
 		- [Logseq 本地端使用 Github 同步_answer_is_42的博客-CSDN博客](https://blog.csdn.net/answer_is_42/article/details/121524714)

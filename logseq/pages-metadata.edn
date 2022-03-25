@@ -21,7 +21,7 @@
   :block/updated-at 1647934736151}
  {:block/name "2022-03-15 tuesday",
   :block/created-at 1647274737333,
-  :block/updated-at 1647336465675}
+  :block/updated-at 1648180226128}
  {:block/name "2022-03-16 wednesday",
   :block/created-at 1647393564092,
   :block/updated-at 1647509671832}
@@ -39,7 +39,7 @@
   :block/updated-at 1648115139020}
  {:block/name "2022-03-25 friday",
   :block/created-at 1648171040722,
-  :block/updated-at 1648179153468}
+  :block/updated-at 1648186257027}
  {:block/name "a",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
@@ -130,6 +130,9 @@
  {:block/name "logseq",
   :block/created-at 1647276892252,
   :block/updated-at 1648112262307}
+ {:block/name "logseq 自動備份與部署",
+  :block/created-at 1648186257022,
+  :block/updated-at 1648188637783}
  {:block/name "mac",
   :block/created-at 1648092364797,
   :block/updated-at 1648092364797}
@@ -150,7 +153,7 @@
   :block/updated-at 1648099349218}
  {:block/name "notetakingapp",
   :block/created-at 1647276892251,
-  :block/updated-at 1648116007524}
+  :block/updated-at 1648180262953}
  {:block/name "notetakingmethod",
   :block/created-at 1647933668813,
   :block/updated-at 1648092947375}
@@ -160,6 +163,9 @@
  {:block/name "now",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
+ {:block/name "obsidian",
+  :block/created-at 1648180262951,
+  :block/updated-at 1648180474801}
  {:block/name "obsidian page",
   :block/created-at 1648174915703,
   :block/updated-at 1648174915703}
