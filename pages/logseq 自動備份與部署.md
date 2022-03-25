@@ -42,5 +42,11 @@ note::
 			- [linux - chmod: changing permissions of ‘my_script.sh’: Operation not permitted - Stack Overflow](https://stackoverflow.com/questions/38676437/chmod-changing-permissions-of-my-script-sh-operation-not-permitted)
 			- [[Mac] macOS Catalina 上的 cron job 遇到 Operation not permitted 錯誤 | EPH 的程式日記](https://ephrain.net/mac-macos-catalina-%E4%B8%8A%E7%9A%84-cron-job-%E9%81%87%E5%88%B0-operation-not-permitted-%E9%8C%AF%E8%AA%A4/)
 		- 也許研究一下 windows 底下有沒有辦法也用 cron 排程？
--
+	- ## 部署到 github pages
+		- 參考
+			- [Logseq 第一次试用记录以及发布 Logseq 到网页 | Verne in GitHub](https://blog.einverne.info/post/2022/01/logseq-usage.html)
+			- [pengx17/logseq-publish: Logseq Publish Action](https://github.com/pengx17/logseq-publish)
+			- [Environment variables - GitHub Docs](https://docs.github.com/en/actions/learn-github-actions/environment-variables)
+		- 成果
+			- [Home](https://ayugioh2003.github.io/digital-garden/#/page/home)
 - ## Reference
