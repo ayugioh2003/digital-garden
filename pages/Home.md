@@ -32,5 +32,5 @@ note:: 整個筆記系統的進入點、儀表板
 	- [[Contents]] 用來放全域的筆記
 	- [[card]] 可以拿來背卡片
 	- [[Templates]]
-	-
+	- [[journal]]
 -
