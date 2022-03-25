@@ -94,9 +94,6 @@
  {:block/name "graduateschool",
   :block/created-at 1647939959255,
   :block/updated-at 1647939959255}
- {:block/name "home",
-  :block/created-at 1647276892372,
-  :block/updated-at 1648196422472}
  {:block/name "idea",
   :block/created-at 1648115074708,
   :block/updated-at 1648115074708}
@@ -232,15 +229,15 @@
  {:block/name "富邦台50",
   :block/created-at 1647496199291,
   :block/updated-at 1647496199291}
+ {:block/name "小麥的數位花園 - home",
+  :block/created-at 1648196901669,
+  :block/updated-at 1648197302720}
  {:block/name "尼克拉斯·盧曼 (wikipedia)",
   :block/created-at 1648002697087,
   :block/updated-at 1648010488897}
  {:block/name "投資理財",
   :block/created-at 1647496154060,
   :block/updated-at 1647593491382}
- {:block/name "測試",
-  :block/created-at 1648116443844,
-  :block/updated-at 1648116443844}
  {:block/name "爬蟲",
   :block/created-at 1648194301247,
   :block/updated-at 1648194404377}
