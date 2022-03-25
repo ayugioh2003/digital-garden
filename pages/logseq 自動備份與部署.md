@@ -10,6 +10,10 @@ note::
 	- [Autosync for Google Drive - Google Play 應用程式](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync&hl=zh_TW&gl=US)
 - ## 同步資料：git + cron 方案
 	- 看到隔壁棚 Obsidian 有內建 git 同步很是羨慕，就開始想說自己動手做個 git 同步功能好了。
+	- ```bash
+	  # logseqAutoSave.sh
+	  
+	  ```
 	- 問題
 		- mac 路徑空白要用反斜線
 			- [shell - How to input a path with a white space? - Stack Overflow](https://stackoverflow.com/questions/12902227/how-to-input-a-path-with-a-white-space)
