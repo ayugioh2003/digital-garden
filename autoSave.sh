@@ -1,4 +1,6 @@
 #!/bin/bash
+# * * * * * /Users/hsulala/Documents/cron/logseqAutoSave.sh > ~/logseq_autosave_log.txt 2>&1 &
+
 cd /Volumes/GoogleDrive/My\ Drive/logseq
 
 git pull
