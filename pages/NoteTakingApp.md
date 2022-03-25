@@ -14,6 +14,7 @@ note:: 數位筆記的清單
 		- [[Obsidian]]
 		- Workflowy 大綱模式
 		- [[foam-vscode]]
+		- [[Heptabase]] 視覺連結板：地圖、白板、卡片
 	-
 - ## 連結
 	- [(171) 《Vista的小聲音》 EP.35 如何挑選數位筆記軟體 - YouTube](https://www.youtube.com/watch?v=wOHIxTa3CN4&ab_channel=VistaCheng)
