@@ -32,7 +32,7 @@ note::
 	  crontab -l # 查看定期 task
 	  ```
 	- 問題與資料
-		- cron
+		- [[Cron]]
 			- [Cron - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Cron)
 		- mac 路徑空白要用反斜線
 			- [shell - How to input a path with a white space? - Stack Overflow](https://stackoverflow.com/questions/12902227/how-to-input-a-path-with-a-white-space)
