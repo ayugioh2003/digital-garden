@@ -1,7 +1,7 @@
 note:: 整個筆記系統的進入點、儀表板
 
 - ---
-- 
+-
 -
 -
 - ## Readme
@@ -31,6 +31,5 @@ note:: 整個筆記系統的進入點、儀表板
 	  query-sort-desc:: false
 	  query-properties:: [:page :note :created-at :updated-at]
 -
-- ## Test
-  - test auto save
-  - test2
+- ## Others
+	- [[Templates]]
