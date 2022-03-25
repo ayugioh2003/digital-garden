@@ -11,9 +11,9 @@ note:: 數位筆記的清單
 	- 2020 [[Logseq]]
 	- 其他
 		- [Pioneering research. Self-hosted and multi-player.](https://www.athensresearch.org/)
-		-
 		- [[Obsidian]]
 		- Workflowy 大綱模式
+		- [[foam-vscode]]
 	-
 - ## 連結
 	- [(171) 《Vista的小聲音》 EP.35 如何挑選數位筆記軟體 - YouTube](https://www.youtube.com/watch?v=wOHIxTa3CN4&ab_channel=VistaCheng)

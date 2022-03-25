@@ -166,7 +166,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["home" "Note" "關於此站" "關於我"]
+ :favorites ["Home" "Note" "關於此站" "關於我"]
  :journal/page-title-format "yyyy-MM-dd EEEE"
  :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
  :feature/enable-journals? true
