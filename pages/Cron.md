@@ -4,7 +4,7 @@ note::
 
 - ## Introduction
 	- 在 unix-like OS 可以用來排程的工具
-- ## 使用
+- ## Usage
 	- ```bash
 	  # CLI 指令
 	  crontab -l # 查看目前排程
@@ -45,3 +45,6 @@ note::
 - ## Reference
 	- [Cron (正體中文) - ArchWiki](https://wiki.archlinux.org/title/Cron_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87))
 	- [Cron job every 10 minutes](https://crontab.guru/every-10-minutes)
+	- [Cron - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Cron)
+	- [用 Cron 幫網站寫備份腳本吧 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10226867)
+	- [【Day24】排程 - Cron套件超詳解，讓爬蟲自己動起來 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10249462)
