@@ -1,6 +1,6 @@
 query-table:: {{query (page-property type Book ) }}
 type:: #Type
-note:: 放書本
+note:: 放看到的書
 
 -
 -

@@ -1,6 +1,6 @@
 type:: #Type
 tags::
-note:: 紀錄自己的的筆記
+note:: 記錄自己的的筆記
 
 -
 -

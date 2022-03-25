@@ -19,9 +19,6 @@ note:: 整個筆記系統的進入點、儀表板
 			- Video, Image, Music
 		- **Permanent Note**: Note
 		-
-- ## Built-in
-	- [[Contents]] 用來放全域的筆記
-	- [[card]] 可以拿來背卡片
 - ## 文章類型 #TYPE
 	- {{query (page-property type Type)}}
 	-
@@ -32,4 +29,7 @@ note:: 整個筆記系統的進入點、儀表板
 	  query-properties:: [:page :note :created-at :updated-at]
 -
 - ## Others
+	- [[Contents]] 用來放全域的筆記
+	- [[card]] 可以拿來背卡片
 	- [[Templates]]
+-
