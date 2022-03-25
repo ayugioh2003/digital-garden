@@ -40,7 +40,9 @@
 	- Where can I find the blog post equivalent?
 	-
 -
-- template:: test
-  123123123
-  test
--
+- template:: Note
+  type:: Note
+  tags:: 
+  note::
+  Introduction
+  Reference
