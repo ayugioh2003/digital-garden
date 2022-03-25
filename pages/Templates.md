@@ -12,9 +12,9 @@
 -
 - type:: #Type
   note::
+-
 - template:: tags
   tags::
--
 - template:: Book summary
   type:: #Book
   author:: 
