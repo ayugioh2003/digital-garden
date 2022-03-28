@@ -40,6 +40,15 @@
  {:block/name "2022-03-25 friday",
   :block/created-at 1648171040722,
   :block/updated-at 1648194313508}
+ {:block/name "2022-03-27 sunday",
+  :block/created-at 1648433723121,
+  :block/updated-at 1648433723121}
+ {:block/name "2022-03-28 monday",
+  :block/created-at 1648431476493,
+  :block/updated-at 1648434042800}
+ {:block/name "_",
+  :block/created-at 1648436057186,
+  :block/updated-at 1648436057186}
  {:block/name "a",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
@@ -79,6 +88,12 @@
  {:block/name "done",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
+ {:block/name "eps 每股稅後盈餘",
+  :block/created-at 1648433723185,
+  :block/updated-at 1648433723185}
+ {:block/name "etf",
+  :block/created-at 1648433723211,
+  :block/updated-at 1648433723211}
  {:block/name "evernote",
   :block/created-at 1647104025123,
   :block/updated-at 1648100393818}
@@ -135,7 +150,7 @@
   :block/updated-at 1647084869996}
  {:block/name "logseq",
   :block/created-at 1647276892252,
-  :block/updated-at 1648200793049}
+  :block/updated-at 1648436199853}
  {:block/name "logseq 自動備份與部署",
   :block/created-at 1648186257022,
   :block/updated-at 1648202007613}
@@ -159,7 +174,7 @@
   :block/updated-at 1648191141048}
  {:block/name "notetakingapp",
   :block/created-at 1647276892251,
-  :block/updated-at 1648199786301}
+  :block/updated-at 1648436097873}
  {:block/name "notetakingmethod",
   :block/created-at 1647933668813,
   :block/updated-at 1648092947375}
@@ -175,15 +190,27 @@
  {:block/name "obsidian page",
   :block/created-at 1648174915703,
   :block/updated-at 1648174915703}
+ {:block/name "pbr 股價淨值比",
+  :block/created-at 1648433723223,
+  :block/updated-at 1648433723223}
+ {:block/name "per 本益比",
+  :block/created-at 1648433723246,
+  :block/updated-at 1648433723246}
  {:block/name "person",
   :block/created-at 1647314073259,
   :block/updated-at 1648190747468}
  {:block/name "question",
   :block/created-at 1647312579967,
   :block/updated-at 1647312579967}
+ {:block/name "roa 資產報酬率",
+  :block/created-at 1648433723269,
+  :block/updated-at 1648433723269}
  {:block/name "roam research",
   :block/created-at 1647104020386,
   :block/updated-at 1648099679820}
+ {:block/name "roe 股東權益報酬率",
+  :block/created-at 1648433723286,
+  :block/updated-at 1648433723286}
  {:block/name "seniorhigh",
   :block/created-at 1647939959254,
   :block/updated-at 1647939959254}
@@ -226,12 +253,18 @@
  {:block/name "waiting",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
+ {:block/name "yeild 殖利率",
+  :block/created-at 1648433723299,
+  :block/updated-at 1648433723299}
  {:block/name "zettelkasten",
   :block/created-at 1647933668812,
   :block/updated-at 1648016407565}
  {:block/name "以社會系統理論看六角後端直播班分組",
   :block/created-at 1648005506387,
   :block/updated-at 1648192552669}
+ {:block/name "基金",
+  :block/created-at 1648433723307,
+  :block/updated-at 1648433723307}
  {:block/name "富邦台50",
   :block/created-at 1647496199291,
   :block/updated-at 1647496199291}
@@ -240,19 +273,31 @@
   :block/updated-at 1648010488897}
  {:block/name "履歷",
   :block/created-at 1648201734975,
-  :block/updated-at 1648201801003}
+  :block/updated-at 1648435135367}
  {:block/name "投資理財",
   :block/created-at 1647496154060,
   :block/updated-at 1647593491382}
  {:block/name "爬蟲",
   :block/created-at 1648194301247,
   :block/updated-at 1648194404377}
+ {:block/name "股票",
+  :block/created-at 1648433723657,
+  :block/updated-at 1648433723657}
+ {:block/name "證券戶推薦2022",
+  :block/created-at 1648433723660,
+  :block/updated-at 1648433723660}
  {:block/name "讓 mac finder 透過右鍵選單開啟 vscode",
   :block/created-at 1648092282792,
   :block/updated-at 1648092808956}
+ {:block/name "部落格",
+  :block/created-at 1648434042798,
+  :block/updated-at 1648434123012}
  {:block/name "關於我",
   :block/created-at 1648195164542,
   :block/updated-at 1648201734976}
  {:block/name "關於此站",
-  :block/created-at 1648191406341, 
-  :block/updated-at 1648198824233}]
+  :block/created-at 1648191406341,
+  :block/updated-at 1648198824233}
+ {:block/name "除權息",
+  :block/created-at 1648433723119, 
+  :block/updated-at 1648433723119}]

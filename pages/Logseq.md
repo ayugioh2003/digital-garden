@@ -49,3 +49,4 @@ note:: 支援 backlink 的筆記軟體
 	- [(171) OneStutteringMind - YouTube](https://www.youtube.com/c/OneStutteringMind/videos)
 	- [Logseq](https://mschmidtkorth.github.io/logseq-msk-docs/#/page/Logseq%20-%20Unofficial%20Documentation)
 	- [Introducing logseq - 一个类似 roam research/tiddlywiki, 开源且支持 org mode 和 markdown 的笔记工具 - Org-mode - Emacs China](https://emacs-china.org/t/introducing-logseq-roam-research-tiddlywiki-org-mode-markdown/15165/19?page=2) 中國作者推廣
+	- [7. 跟 Logseq 的创造者天生聊聊 Logseq 的故事 - ByteTalk](https://getpodcast.com/podcast/bytetalk2/7-gen-logseq-de-chuang-zao-zhe-tian-sheng-liao-liao-logseq-de-gu-shi_4e6a1d19b4) podcast 訪談
