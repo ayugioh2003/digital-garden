@@ -1,0 +1,3 @@
+-
+- hook
+	- [樣板方法模式(Template Method Pattern) | PIN - 點部落](https://dotblogs.com.tw/pin0513/2010/10/03/18072)
