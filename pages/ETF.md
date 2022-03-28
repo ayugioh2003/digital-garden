@@ -1,0 +1,4 @@
+-
+-
+- ## Reference
+	- [(409) 【EP 83】00878國泰永續高股息,收益分配通知書第一季配0.3元,幾張不用繳健保補充保費?【福星FuStar】0050&0056&00900&00904&00891&00712 - YouTube](https://www.youtube.com/watch?v=kfCF8EEScxI&ab_channel=%E7%A6%8F%E6%98%9FFuStar)

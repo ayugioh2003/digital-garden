@@ -1,0 +1,15 @@
+- ## Introduction
+	- PER Price-Earning Ratio (P/E Ratio) 評估公司股價是否合理的指標
+	- PER = 股價(購入成本) / EPS (年度每股純益)
+	- 一間公司有多少價值，就能擁有一定的價格
+	- 影響公司價格高低的最重要因素是 [[EPS 每股稅後盈餘]]
+	- 有比較高的 EPS，通常會有比較高的股價，存在一定的倍數關係
+	- PER 幾倍合理
+		- 跟同產業比
+		- 跟自己比
+	- 2018 年大盤 PER 約 15 倍
+		- 若 [[EPS 每股稅後盈餘]] 是 5 元，乘以 15 倍 EPS
+		- 合理股價約在 75 元
+-
+- ## Reference
+	- [(409) 買貴還是買便宜？股票估值的基本面三大指標～(本益比/股價淨值比/殖利率) | 夯翻鼠FQ27 投資理財 - YouTube](https://www.youtube.com/watch?v=yUUO7dtFInk&list=PLrZrfGLGySze4iKPvxQeEBwKIJ8j1uxC1&index=5&ab_channel=%E6%9F%B4%E9%BC%A0%E5%85%84%E5%BC%9FZRBros)

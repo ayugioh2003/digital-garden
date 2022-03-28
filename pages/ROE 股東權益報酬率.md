@@ -1,0 +1,10 @@
+- ## Introduction
+	- Return On Equity 公司透過股東資金獲利的能力
+	- ROE = 稅後淨利 (繳完稅之後的淨利) / 淨值(股東的權益)(資產減去負債)
+	- 巴菲特會抓 >15%，一般人抓 >10% 就好
+	- 每季 2-3% 及格，4-6% 優異
+-
+- ## Reference
+	- [(409) 0050也藏有ROE不死鳥啊！新手學基本面二大指標 評估企業賺錢能力 | 夯翻鼠FQ26 股票投資 - YouTube](https://www.youtube.com/watch?v=VnYdpRMU8Y0&list=PLrZrfGLGySze4iKPvxQeEBwKIJ8j1uxC1&index=4&ab_channel=%E6%9F%B4%E9%BC%A0%E5%85%84%E5%BC%9FZRBros)
+-
+-

@@ -1,0 +1,6 @@
+- ## Introduction
+	- Price-Book Ratio
+	- PBR = 每股價格(購入成本) / 每股淨值(淨值/股數)
+-
+- ## Reference
+	- [(409) 買貴還是買便宜？股票估值的基本面三大指標～(本益比/股價淨值比/殖利率) | 夯翻鼠FQ27 投資理財 - YouTube](https://www.youtube.com/watch?v=yUUO7dtFInk&list=PLrZrfGLGySze4iKPvxQeEBwKIJ8j1uxC1&index=5&ab_channel=%E6%9F%B4%E9%BC%A0%E5%85%84%E5%BC%9FZRBros)

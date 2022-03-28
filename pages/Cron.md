@@ -41,7 +41,12 @@ note::
 	  @reboot /usr/bin/dircproxy
 	  
 	  ```
-	-
+- ## Windows 方案
+	- [Setting up a cron job in Windows - Stack Overflow](https://stackoverflow.com/questions/7195503/setting-up-a-cron-job-in-windows)
+	- [老天尊的死期: Windows 跑 例行性工作排程](http://carlislebear.blogspot.com/2015/09/windows7-cronjob-scheduled-task.html)
+	- cron
+		- [Windows 10 的 WSL 自動啟動 Crontab @ 遺忘國度的山哥 :: 痞客邦 ::](https://proms.pixnet.net/blog/post/350912269-windows-10-%E7%9A%84-wsl-%E8%87%AA%E5%8B%95%E5%95%9F%E5%8B%95-crontab)
+		- [如何在 WSL 上自動啟動 Cron Windows 10 和11 – WebSetNet](https://websetnet.net/zh-TW/how-to-launch-cron-automatically-in-wsl-on-windows-10-and-11/)
 - ## Reference
 	- [Cron (正體中文) - ArchWiki](https://wiki.archlinux.org/title/Cron_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87))
 	- [Cron job every 10 minutes](https://crontab.guru/every-10-minutes)

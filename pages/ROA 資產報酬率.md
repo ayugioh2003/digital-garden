@@ -1,0 +1,6 @@
+- ## Introduction
+	- ROA Return On Asset 資產報酬率 整體資產的獲利能力
+	- ROA = 稅後淨利 (繳完稅之後的淨利) / 資產 (經濟資源)
+	- ROI 投資報酬率
+- ## Reference
+	- [(403) 0050也藏有ROE不死鳥啊！新手學基本面二大指標 評估企業賺錢能力 | 夯翻鼠FQ26 股票投資 - YouTube](https://www.youtube.com/watch?v=VnYdpRMU8Y0&list=PLrZrfGLGySze4iKPvxQeEBwKIJ8j1uxC1&index=4&ab_channel=%E6%9F%B4%E9%BC%A0%E5%85%84%E5%BC%9FZRBros)

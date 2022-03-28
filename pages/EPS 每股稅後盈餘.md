@@ -1,0 +1,20 @@
+- ## Introduction
+	- EPS: Earnings Per Share 每股稅後盈餘、每股純益
+	- 平均每一股完稅後還賺多少錢 = 稅後淨利  (繳完稅後的淨利) / 股數(資本額/10)
+	- EPS 通常以季為單位
+		- 上市公司規定每個月都要公佈營收
+		- 每季要公佈財報
+		- 四個季加起來就能得到全年 EPS
+		- 年報通常在「隔年三月」左右公佈
+		- 大多數公司在這時開董事會決定，要拿這些 EPS 多少比例出來發股利
+		- 有的全部發、有的發八成，有的發五成，有的都不發，這就是盈餘分配率
+	- 每年夏天除權息領的股利，就是來自去年一整年賺的錢
+		- 若去年 EPS 比前年 EPS 多，理論今年的股利也會比去年股利多
+		- 選擇盈餘分配率高的公司，對股民比較有利
+	- 查詢歷年 EPS 和盈餘分配率
+		- [(2330) 台積電 歷年股利/股息分配一覽表 - Goodinfo!台灣股市資訊網](https://goodinfo.tw/tw/StockDividendPolicy.asp?STOCK_ID=2330)
+	- 若有公司只發股息，持續讓股本擴大，獲利沒有一起增加
+		- EPS ↓ = 稅後淨利(沒有增加) / 股數 ↑
+		- 股本膨脹稀釋獲利
+- ## Reference
+	- [(403) 股票怎麼選？基本面先問這三題 (股本/EPS) | 夯翻鼠FQ25 投資理財 - YouTube](https://www.youtube.com/watch?v=9Oew02e5uqg&list=PLrZrfGLGySze4iKPvxQeEBwKIJ8j1uxC1&index=3&ab_channel=%E6%9F%B4%E9%BC%A0%E5%85%84%E5%BC%9FZRBros)
