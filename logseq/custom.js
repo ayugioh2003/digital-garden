@@ -14,6 +14,7 @@ try {
   // head.appendChild(script2);  
 
   // alert(head.innerHTML)
+  console.log('hello world')
 } catch (e) {
   alert(e);
 }
