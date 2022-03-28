@@ -1,0 +1,7 @@
+-
+- ## Tools
+	- 直播聲音辨識上素材
+		- [(429) 我開發了辨識聲音就能出現字卡的直播神器！【六指淵 Huber】 - YouTube](https://www.youtube.com/watch?v=Df1nCvbH5Ew&ab_channel=J-Bao%E8%B3%A4%E8%91%86)
+		- [kolpower](https://kolpower.cc/voice-recognition)
+		- [Audio Model - Teachable Machines](https://teachablemachine.withgoogle.com/train/audio) 工程師可用版
+		- [Teachable Machine](https://teachablemachine.withgoogle.com/v1/) 麻瓜教學版
