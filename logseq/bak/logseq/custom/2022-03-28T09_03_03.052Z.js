@@ -1,5 +1,4 @@
 //the event occurred
-console.log('hello world')
 try {
   // var head= document.getElementsByTagName('head')[0]; 
   
@@ -15,7 +14,7 @@ try {
   // head.appendChild(script2);  
 
   // alert(head.innerHTML)
-  
+  console.log('hello world')
 } catch (e) {
   alert(e);
 }
