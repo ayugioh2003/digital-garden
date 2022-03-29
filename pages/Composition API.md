@@ -14,5 +14,7 @@
 		- beforeDestroy -> beforeUnmount
 		- destroyed -> unmounted
 		- beforeCreate, created 目前不需要
-		- onRenderTracked() 狀態跟蹤每個值 (dev only)
-		- onRenderTriggered() 狀態觸發 (dev only)
+		- onRenderTracked() 狀態跟蹤 元件內每個值 (dev only)
+		- onRenderTriggered() 狀態觸發 當前變動值 (dev only)
+- watch
+	- watchEffect, watch
