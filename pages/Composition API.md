@@ -1,0 +1,18 @@
+- setup, props, context
+	- ref
+- methods
+- computed properties
+- the reactive syntax
+	- reactive, toRef
+- modularizing
+	- useFunction hooks
+- lifecycle hook
+	- vue2 lifecycle methods
+		- beforeCreate(), created(), beforeMount(), mounted(), beforeUpdate(), updated(), beforeDestroy(), destroyed()
+		- activated(), deactivated(), errorCaptured()
+	- vue3
+		- beforeDestroy -> beforeUnmount
+		- destroyed -> unmounted
+		- beforeCreate, created 目前不需要
+		- onRenderTracked() 狀態跟蹤
+		- onRenderTriggered() 狀態觸發
