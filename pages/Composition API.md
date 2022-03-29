@@ -14,5 +14,5 @@
 		- beforeDestroy -> beforeUnmount
 		- destroyed -> unmounted
 		- beforeCreate, created 目前不需要
-		- onRenderTracked() 狀態跟蹤
-		- onRenderTriggered() 狀態觸發
+		- onRenderTracked() 狀態跟蹤 (dev only)
+		- onRenderTriggered() 狀態觸發 (dev only)
