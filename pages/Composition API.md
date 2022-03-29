@@ -20,4 +20,10 @@
 	- watchEffect, watch
 	- [Vue3 中 watch 与 watchEffect 有什么区别？ - 知乎](https://www.zhihu.com/question/462378193)
 - sharing state
-	- custom hook 裡面有狀態
+	- custom hook 裡面有狀態，可取出來給元件用
+- suspense
+	- 好像還是實驗功能，可以用了嗎？
+	- [Suspense | Vue.js](https://vuejs.org/guide/built-ins/suspense.html#suspense)
+-
+- ## Source
+	- [Why the Composition API - Vue 3 Composition API | Vue Mastery](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
