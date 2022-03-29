@@ -20,4 +20,4 @@
 	- watchEffect, watch
 	- [Vue3 中 watch 与 watchEffect 有什么区别？ - 知乎](https://www.zhihu.com/question/462378193)
 - sharing state
-	-
+	- custom hook 裡面有狀態
