@@ -1,3 +1,7 @@
+type:: #Note 
+tags:: #Vue 
+note::
+
 - setup, props, context
 	- ref
 - methods
@@ -28,6 +32,7 @@
 - teleport
 	- modal 會有 z-index 問題
 	- 可控制 #app 以外的 DOM HTML 元素
+	- [Teleport | Vue.js](https://vuejs.org/guide/built-ins/teleport.html#teleport)
 -
 - ## Source
 	- [Why the Composition API - Vue 3 Composition API | Vue Mastery](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
