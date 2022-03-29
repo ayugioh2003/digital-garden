@@ -10,4 +10,9 @@ note:: 前端框架御三家之一
 	- computed properties
 	- the reactive syntax
 		- reactive, toRef
-	- moodularizing
+	- modularizing
+		- useFunction hooks
+	- lifecycle hook
+		- lifecycle methods
+			- beforeCreate(), created(), beforeMount(), mounted(), beforeUpdate(), updated(), beforeDestroy(), destroyed()
+			- activated(), deactivated(), errorCaptured
