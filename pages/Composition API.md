@@ -18,3 +18,6 @@
 		- onRenderTriggered() 狀態觸發 當前變動值 (dev only)
 - watch
 	- watchEffect, watch
+	- [Vue3 中 watch 与 watchEffect 有什么区别？ - 知乎](https://www.zhihu.com/question/462378193)
+- sharing state
+	-
