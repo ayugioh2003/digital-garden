@@ -1,5 +1,5 @@
 - Vue 3 Reactivity
-	- vue2 -> defineProperty, vue3 -> proxy
+	- vue2 -> Object.defineProperty, vue3 -> Proxy
 - Proxy and Reflect
 - activeEffect & ref
 - Reading Vue 3 Source

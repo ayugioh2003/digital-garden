@@ -2,3 +2,4 @@
 -
 - ## Reference
 	- [(409) 【EP 83】00878國泰永續高股息,收益分配通知書第一季配0.3元,幾張不用繳健保補充保費?【福星FuStar】0050&0056&00900&00904&00891&00712 - YouTube](https://www.youtube.com/watch?v=kfCF8EEScxI&ab_channel=%E7%A6%8F%E6%98%9FFuStar)
+	- [(459) 【ETF投資】是什麼？怎麼買？定期定額？｜資產配置、被動收入最佳工具 - YouTube](https://www.youtube.com/watch?v=YtwRQN_lTVg&ab_channel=%E6%B8%85%E6%B5%81%E5%90%9B)

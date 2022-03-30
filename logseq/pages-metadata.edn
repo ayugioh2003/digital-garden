@@ -258,7 +258,10 @@
   :block/updated-at 1648196805199}
  {:block/name "vue",
   :block/created-at 1647939134578,
-  :block/updated-at 1648523305046}
+  :block/updated-at 1648548333064}
+ {:block/name "vue 3 reactivity",
+  :block/created-at 1648548333061,
+  :block/updated-at 1648548611131}
  {:block/name "wait",
   :block/created-at 1647084869996,
   :block/updated-at 1647084869996}
