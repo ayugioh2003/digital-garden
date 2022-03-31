@@ -3,7 +3,7 @@ tags:: #Github, #JavaScript
 note::
 
 - ## Introduction
-	- 平常會用 Github Issue 當作簡易的技術部落格。在新建立 Issue 時，想自動填入分享的網址標題與網址，於是開始找解決方案
+	- 平常會用 Github Issue 當作簡易的技術部落格。在新建立 Issue 時，想自動填入分享的網址標題與網址，於是開始找解決方案。
 - ## Method
 	- ```js
 	  javascript:(function createGithubIssue () {
